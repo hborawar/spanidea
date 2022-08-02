@@ -1,0 +1,104 @@
+.abt-col{
+    flex-basis: 31%;
+    background: #86e0d8;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+.abt-col img{
+    margin-top: 5px;
+    padding-left: 70px;
+}
+.abt-col:hover{
+    box-shadow: 0 0 20px 5px rgba(5,0,0,0.2);
+}
+.abt h1{
+    text-align: center;
+    font-style: italic;
+    text-shadow: #642b27;
+
+}
+.rmv-col h3{
+    text-align: center;
+    font-weight:600 ;
+    margin: 10px 20px;
+    font-size: x-large;
+}
+
+.row {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+
+----abt2-----
+
+.rmv h1{
+    text-align: center;
+    font-style: italic;
+    text-shadow: #642b27;
+
+}
+
+.rmv-col{
+    flex-basis: 31%;
+    background: #e7dad7;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rmv-col p {
+    text-align: center;
+}
+
+.overview h3{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 20px #642b27 ;
+    margin-top: auto;
+}
+
+
+
+
+------abt30-----
+
+.abc{
+ 
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    color: #63ed96;
+    display: inline;
+
+}
+
+.mot{
+    
+    display: block;
+    flex-basis: 31%;
+    border-radius: 10px;
+    text-align: left;
+    margin-bottom: 5%;
+    
+}
+.mot img{
+    width: 100%;
+    border-radius:10px ;
+    height: 100%;
+}
+
+
+.mot h3{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: left;
+}

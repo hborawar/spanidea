@@ -1,0 +1,40 @@
+
+.pdt p{
+    font-size: medium;
+    text-align: left;
+}
+
+.pp {margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.pdt{
+flex-basis: 31%;
+    background: #f4e4c3;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+   
+}
+.pdt p{
+    font-size:large;
+    text-align: left;
+}
+
+.product{
+    background-color: #df90bc;
+}
+.pdt p{
+    font-size:large;
+    text-align: left;
+}
+.pdt h1{
+    padding-top: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 30px;
+    word-spacing: 2px;
+}
+
+
